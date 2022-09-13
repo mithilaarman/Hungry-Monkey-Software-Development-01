@@ -2,7 +2,7 @@
 
 It is a complete project
 
-Name:Hungry Monkey
+Name:Hungry Monkey 2D game
 
 With: igraphics and c++
 
